@@ -1,0 +1,31 @@
+table{
+    margin:auto;
+border-collapse: collapse;
+background:black;
+}
+td{
+    width:100px;
+    height:100px;
+    border-color: blue;
+
+}
+#a{
+    border-width: 0px 2px 2px 0px;
+    border-style:solid;
+}
+#b{
+     border-width: 0px 0px 2px 2px;
+    border-style:solid;
+ }
+#c{
+    border-width: 2px 2px 2px 2px;
+    border-style:solid;
+}
+#d{
+    border-width: 2px 2px 0px 0px;
+    border-style:solid;
+}
+#e{
+    border-width: 2px 0px 0px 2px;
+    border-style:solid;
+}
